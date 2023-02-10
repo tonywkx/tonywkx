@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/tonywk@ya.ru-f3f3f3?style=for-the-badge&logo=gmail)](mailto:tonywk@ya.ru)
-[![Telegram](https://img.shields.io/badge/@tonywk?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonywk)
+[![Telegram](https://img.shields.io/badge/Telegram-%40tonywk-blue)](https://t.me/tonywk)
 
 </div>
 <br/>
