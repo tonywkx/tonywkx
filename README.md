@@ -1,4 +1,4 @@
-<img src="./header.png" alt="альтернативный текст">
+
 
 <div align="center">
 
